@@ -1,3 +1,5 @@
+var whitebox, yellowbox, redbox, pinkbox, greenbox
+
 function setup() {
   createCanvas(400,400);
   createSprite(400, 200, 50, 50);
